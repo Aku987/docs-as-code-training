@@ -9,7 +9,7 @@ Use this information to administer the product, manage users and access, monitor
 
 Use the following task list to track the administrative activities for your environment.
 
-### Initial configuration
+### Initial configuration (make this level three)
 
 - [ ] Review the product configuration requirements.
 - [ ] Configure the general product settings.
