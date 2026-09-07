@@ -14,4 +14,6 @@ Make sure that you:
 3. Have permission to push changes to the repository.
 4. Are working in the correct branch.
 5. Have pulled the latest changes from GitHub.
+   
+</details>
 
