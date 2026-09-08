@@ -11,6 +11,8 @@ Organizations of all sizes can use ProjectX, including project managers, team le
 
 ## Major capabilities
 
+aaaaaaaa
+
 Users can access the following capabilities within the application:
 - Create and assign tasks to team members
 - Track project progress with dashboards and reports
