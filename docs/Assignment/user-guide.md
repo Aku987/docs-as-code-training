@@ -4,6 +4,10 @@ Use this page to resolve common issues when working with Markdown files, Visual 
 
 ## Cannot push changes to GitHub
 
+### heading 3
+
+#### heading 4
+
 <details>
 <summary>Why can't I push my changes?</summary>
 
