@@ -15,7 +15,7 @@ Make sure that you:
 
 1. Have saved and committed your changes.
 2. Are connected to the correct remote repository.
-3. Have permission to push changes to the repository.c
+3. Have permission to push changes to the repository.
 4. Are working in the correct branch.
 5. Have pulled the latest changes from GitHub.
    
